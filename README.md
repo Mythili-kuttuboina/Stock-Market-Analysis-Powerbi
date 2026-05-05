@@ -77,5 +77,5 @@ Dashboard Preview
 ---
 ![PAGE1](https://github.com/Mythili-kuttuboina/Stock-Market-Analysis-Powerbi/blob/main/Screenshot%202026-05-05%20073838.png?raw=true)
  ![page2](https://github.com/Mythili-kuttuboina/Stock-Market-Analysis-Powerbi/blob/main/Screenshot%202026-05-05%20073857.png?raw=true)
- ![page3]
+ ![page3](https://github.com/Mythili-kuttuboina/Stock-Market-Analysis-Powerbi/blob/main/Screenshot%202026-05-05%20073912.png?raw=true)
  
